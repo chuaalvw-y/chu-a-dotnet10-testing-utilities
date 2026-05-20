@@ -125,3 +125,14 @@ dotnet restore ChuA.Testing.slnx
 dotnet build ChuA.Testing.slnx
 dotnet test ChuA.Testing.slnx
 ```
+
+## License
+
+Copyright (c) 2026 Alvin Wilsen Chan Chua.  
+GitHub: chuaalvw-y
+
+This project is licensed under the Alvin Wilsen Chan Chua Proprietary Use-Only License.
+
+You may use this software for personal, educational, or internal evaluation purposes only. You may not modify, sell, sublicense, redistribute, publish, or include this software in a commercial product or service without prior written permission.
+
+See [LICENSE.txt](LICENSE.txt) for full license details.
